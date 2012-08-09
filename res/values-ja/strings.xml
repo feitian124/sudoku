@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="app_name">数独</string>
+   <string name="main_title">古典的な数独</string>
+   <string name="continue_label">続行</string>
+   <string name="new_game_label">新しいゲーム</string>
+   <string name="about_label">について</string>
+   <string name="exit_label">終了</string>
+   <string name="pls_input_name">入力ファイル名をしてください</string>
+   <string name="save_puzzle_success">成功をパズル保存</string>
+   <string name="save_puzzle_failure">障害をパズル保存</string>
+
+   <string name="settings_label">設定</string>
+   <string name="settings_title">数独設定</string>
+   <string name="difficulty_value">难度</string>
+   <string name="settings_shortcut">s</string>
+   <string name="music_title">音楽</string>
+   <string name="music_summary">ラジオをバックグラウンドミュージック</string>
+   <string name="hints_title">ヒント</string>
+   <string name="hints_summary">ショーはプレイ中にヒント</string>
+   <string name="difficulty_title">難易度の設定</string>
+   <string name="difficulty_dlg_title">難易度を選択してください</string>
+   <string name="difficulty_key">困難</string>
+   <string name="save_name_view_Title">名前を付けて保存ゲーム</string>
+   <string name="save_name_view_label">入力名をしてください</string>
+   <string name="save_name_ok">OKを</string>
+   <string name="save_name_cancel">キャンセル</string>
+   <string name="load_game_success">負荷ゲームの成功</string>
+   <string name="no_saved_puzzle">保存されたパズルは、リターンしてください</string>
+   
+   <string name="new_game_title">困難</string>
+   <string name="easy_label">簡単</string>
+   <string name="normal_label">通常</string>
+   <string name="medium_label">ミドル</string>
+   <string name="hard_label">困難</string>
+   <string name="very_hard_label">非常に困難</string>
+   <string name="diff_sum_prefix">現在のゲームの難易度は、</string>
+   <string name="game_undo">Undo</string>
+   <string name="game_redo">Redo</string>
+   <string name="game_save">Save</string>
+   <string name="game_load">Load</string>
+   <string name="no_undo">もう元に戻す</string>
+   <string name="no_redo">これ以上のREDOログ</string>
+   <string name="game_title">ゲーム</string>
+   <string name="no_moves_label">いいえ移動</string>
+   <string name="keypad_title">選択してください</string>
+   <string name="menu_head_title">操作の選択</string>
+   <string name="menu_cancel">キャンセル</string>
+   
+   <string name="about_title">古典的な数独について</string>
+   <string name="about_text">\
+これは、数独のカントは逃した古典的な数独ゲームですが、機能があります：\n
+1 5難易度のレベルで数独パズルの数千人を含む。\n
+2 スマートヒント、提案を与えるために別の色を使用しています。\n
+3 便利な操作、元に戻すサポートし、REDOログ、サポートして保存して、パズルの結果をロードするには、
+ 難易度と使用される時間を含む！\n
+4 新機能が追加されます。いかなる提案も、接触feitian124@yunnuy.comしてください。\n\n
+数独の簡単な紹介：\n
+数独（すうどく、Sudoku）とは、3×3のブロックに区切られた 9×9 の正方形の枠内に1〜9までの数字
+を入れるペンシルパズルの一つである。\n
+1 空いているマスに1〜9のいずれかの数字を入れる。\n
+2 縦・横の各列及び、太線で囲まれた3×3のブロック内に同じ数字が複数入ってはいけない。
+</string>
+</resources>

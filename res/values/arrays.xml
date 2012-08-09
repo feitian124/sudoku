@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <!-- should be string-array, array can't work -->
+   <string-array name="difficulty">
+      <item>@string/easy_label</item>
+      <item>@string/normal_label</item>
+      <item>@string/medium_label</item>
+      <item>@string/hard_label</item>
+      <item>@string/very_hard_label</item>
+   </string-array>
+    <string-array name="difficulty_value">
+      <item>0</item>
+      <item>1</item>
+      <item>2</item>
+      <item>3</item>
+      <item>4</item>
+   </string-array>
+</resources>

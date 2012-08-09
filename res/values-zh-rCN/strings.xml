@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="app_name">数独</string>
+   <string name="main_title">经典数独</string>
+   <string name="continue_label">继续</string>
+   <string name="new_game_label">新游戏</string>
+   <string name="about_label">关于</string>
+   <string name="exit_label">退出</string>
+   <string name="pls_input_name">请输入文件名</string>
+   <string name="save_puzzle_success">当前游戏保存成功</string>
+   <string name="save_puzzle_failure">当前游戏保存失败</string>
+
+   <string name="settings_label">设置</string>
+   <string name="settings_title">游戏设置</string>
+   <string name="difficulty_value">难度</string>
+   <string name="settings_shortcut">s</string>
+   <string name="music_title">音乐</string>
+   <string name="music_summary">播放背景音乐</string>
+   <string name="hints_title">提示功能</string>
+   <string name="hints_summary">游戏时启用颜色提示</string>
+   <string name="difficulty_title">难度设置</string>
+   <string name="difficulty_dlg_title">选择难度</string>
+   <string name="difficulty_key">难度</string>
+   <string name="save_name_view_Title">保存游戏</string>
+   <string name="save_name_view_label">请输入名字：</string>
+   <string name="save_name_ok">确定</string>
+   <string name="save_name_cancel">取消</string>
+   <string name="load_game_success">打开成功</string>
+   <string name="no_saved_puzzle">没有找到数独存档，请返回</string>
+   
+   <string name="new_game_title">难度</string>
+   <string name="easy_label">简单</string>
+   <string name="normal_label">普通</string>
+   <string name="medium_label">中等</string>
+   <string name="hard_label">困难</string>
+   <string name="very_hard_label">骨灰</string>
+   <string name="diff_sum_prefix">当前游戏难度为</string>
+   <string name="game_undo">回退</string>
+   <string name="game_redo">前进</string>
+   <string name="game_save">保存</string>
+   <string name="game_load">打开</string>
+   <string name="no_undo">不能回退了</string>
+   <string name="no_redo">不能前进了</string>
+   <string name="game_title">游戏</string>
+   <string name="no_moves_label">无可选数字</string>
+   <string name="keypad_title">请选择</string>
+   <string name="menu_head_title">选择操作</string>
+   <string name="menu_cancel">删除</string>
+   
+   <string name="about_title">关于数独</string>
+   <string name="about_text">\
+
+\t这是个数独爱好者不能错过的经典数独游戏，有如下特性：\n
+1 包括数千个数独题，5种难度。\n
+2 智能提示，使用不同的颜色给您建议。\n
+3 操作便捷，支持回退和前进操作，能保存您数独结果，包括难度和游戏时间。\n
+4 将会加入更多特性。有任何建议，请联系feitian124@yunnuy.com,谢谢。\n\n
+
+数独游戏简介：\n
+数独是一种基于数字位置的逻辑游戏。游戏包含81个小方格，游戏开始时
+部分方格填充有数字，您的目的是将81个小方格填满，使得81个小方格
+组成的大方格每一行没一列均没有重复的数字，且组成该大方格的9个中等
+方格（有3X3个小方格组成的）也没有重复的数字。
+</string>
+</resources>
